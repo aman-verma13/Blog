@@ -1,0 +1,12 @@
+.homeMainGrid2::-webkit-scrollbar {
+    display: none;
+}
+
+.social_media_container {
+    border: 1px solid grey;
+    display: flex;
+    padding: 1rem;
+    flex-direction: column;
+    border-radius: 1rem;
+    align-items: center;
+}
